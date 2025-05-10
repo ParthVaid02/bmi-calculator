@@ -34,3 +34,6 @@ You can access the web app using the following link:
 
 [Live BMI Calculator](https://parthvaid02.github.io/bmi-calculator/)
 
+## Screenshots
+![BMI calculator screenshot](https://github.com/user-attachments/assets/8724ff75-f4f3-4c97-a6df-85f9aa6b144e)
+
